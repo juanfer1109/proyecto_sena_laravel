@@ -26,7 +26,7 @@
             <input type="number" class="form-control" id="anoFabricacionEquipo" name="anoFabricacionEquipo" min="0">
         </div>
         <div class="mb-3">
-            <label for="anoCompraEquipo" class="form-label">Año de fabricación</label>
+            <label for="anoCompraEquipo" class="form-label">Año de compra</label>
             <input type="number" class="form-control" id="anoCompraEquipo" name="anoCompraEquipo" min="0">
         </div>
         <div class="mb-3">
